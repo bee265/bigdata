@@ -1,0 +1,140 @@
+2018-12-05 15:23:01,595 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 15:23:01,595 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 15:23:01,595 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 15:23:01,595 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 15:23:01,595 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 15:23:01,595 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 15:23:01,595 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 15:23:01,595 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 15:23:01,595 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 15:23:01,595 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 15:23:01,595 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 15:23:01,595 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 15:23:52,610 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 15:23:52,610 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 15:23:52,610 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 15:23:52,610 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 15:23:52,610 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 15:23:52,610 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 15:23:52,610 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 15:23:52,610 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 15:23:52,610 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 15:23:52,610 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 15:23:52,610 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 15:23:52,610 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 15:23:52,611 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 15:23:52,611 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 15:23:52,611 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 15:23:52,611 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 15:23:52,611 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 15:23:52,611 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 15:23:52,611 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 15:23:52,611 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 15:23:52,611 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 15:23:52,611 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 15:23:52,611 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 15:23:52,611 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 15:24:15,050 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 15:24:15,050 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 15:24:15,050 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 15:24:15,050 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 15:24:15,050 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 15:24:15,050 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 15:24:15,050 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 15:24:15,050 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 15:24:15,051 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 15:24:15,051 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 15:24:15,051 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 15:24:15,051 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 15:24:15,051 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 15:24:15,051 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 15:24:15,051 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 15:24:15,051 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 15:24:15,051 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 15:24:15,051 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 15:24:15,051 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 15:24:15,051 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 15:24:15,051 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 15:24:15,051 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 15:24:15,052 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 15:24:15,052 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 15:36:05,632 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 15:36:05,632 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 15:36:05,632 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 15:36:05,632 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 15:36:05,632 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 15:36:05,632 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 15:36:05,633 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 15:36:05,633 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 15:36:05,633 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 15:36:05,633 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 15:36:05,633 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 15:36:05,633 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 15:36:05,633 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 15:36:05,633 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 15:36:05,633 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 15:36:05,633 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 15:36:05,633 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 15:36:05,633 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 15:36:05,633 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 15:36:05,633 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 15:36:05,633 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 15:36:05,633 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 15:36:05,633 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 15:36:05,633 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 16:04:26,720 - logger - INFO - infoxinx
+2018-12-05 16:04:41,538 - logger - INFO - infoxinx
+2018-12-05 16:04:51,217 - logger - WARNING - infoxinx
+2018-12-05 16:05:38,532 - logger - WARNING - infoxinx
+2018-12-05 16:06:28,744 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:06:28,744 - logger - INFO - infoxinx
+2018-12-05 16:08:37,736 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:08:37,736 - logger - INFO - infoxinx
+2018-12-05 16:08:54,066 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:08:54,066 - logger - INFO - infoxinx
+2018-12-05 16:08:54,066 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:08:54,066 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:08:54,066 - logger - INFO - infoxinx
+2018-12-05 16:08:54,066 - logger - INFO - infoxinx
+2018-12-05 16:09:19,125 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:09:19,125 - logger - INFO - infoxinx
+2018-12-05 16:09:19,125 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:09:19,125 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:09:19,125 - logger - INFO - infoxinx
+2018-12-05 16:09:19,125 - logger - INFO - infoxinx
+2018-12-05 16:10:08,296 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:10:08,297 - logger - INFO - infoxinx
+2018-12-05 16:10:08,297 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:10:08,297 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:10:08,297 - logger - INFO - infoxinx
+2018-12-05 16:10:08,297 - logger - INFO - infoxinx
+2018-12-05 16:11:32,511 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:11:32,511 - logger - INFO - infoxinx
+2018-12-05 16:11:32,511 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:11:32,511 - logger - WARNING - iwwwwwwxinx
+2018-12-05 16:11:32,511 - logger - INFO - infoxinx
+2018-12-05 16:11:32,511 - logger - INFO - infoxinx
+2018-12-05 16:40:25,606 - xxx - WARNING - iwwwwwwxinx
+2018-12-05 16:40:25,607 - xxx - INFO - infoxinx
+2018-12-05 16:40:25,607 - yyy - WARNING - iwwwwwwxinx
+2018-12-05 16:40:25,607 - yyy - INFO - infoxinx
+2018-12-05 16:42:03,946 - xxx - WARNING - iwwwwwwxinx
+2018-12-05 16:42:03,946 - xxx - INFO - infoxinx
+2018-12-05 16:42:03,946 - yyy - WARNING - iwwwwwwxinx
+2018-12-05 16:42:03,946 - yyy - INFO - infoxinx
+2018-12-05 16:42:37,930 - /home/hdp/etl/utils/logger.py - WARNING - iwwwwwwxinx
+2018-12-05 16:42:37,930 - /home/hdp/etl/utils/logger.py - INFO - infoxinx
+2018-12-05 16:42:37,930 - yyy - WARNING - iwwwwwwxinx
+2018-12-05 16:42:37,930 - yyy - INFO - infoxinx
+2018-12-05 16:43:39,981 - /home/hdp/etl/utils/logger.py - INFO - 启动导入程序
+2018-12-05 16:43:39,981 - /home/hdp/etl/utils/logger.py - INFO - 启动导入程序
+2018-12-05 16:43:39,981 - /home/hdp/etl/utils/logger.py - ERROR - File is not found！
+2018-12-05 16:43:39,981 - /home/hdp/etl/utils/logger.py - ERROR - File is not found！
+2018-12-05 16:44:21,521 - /home/hdp/etl/utils/logger.py - ERROR - File is not found！
+2018-12-05 16:44:21,521 - /home/hdp/etl/utils/logger.py - ERROR - File is not found！
+2018-12-05 16:45:11,130 - /home/hdp/etl/utils/logger.py - ERROR - File is not found！
+2018-12-05 16:45:11,130 - /home/hdp/etl/utils/logger.py - ERROR - File is not found！
+2018-12-05 16:45:20,428 - /home/hdp/etl/utils/logger.py - ERROR - File is not found！
+2018-12-05 16:45:20,428 - /home/hdp/etl/utils/logger.py - ERROR - File is not found！
+2018-12-05 16:46:22,116 - main - ERROR - File is not found！
+2018-12-05 16:46:22,116 - main - ERROR - File is not found！

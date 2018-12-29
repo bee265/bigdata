@@ -1,0 +1,47 @@
+2018-12-04 23:03:17,040 - main - INFO - tb_mail_cost表更新方式是'A'！
+2018-12-04 23:19:50,126 - main - INFO - 开始导入数据到表src_test.tb_mail_cost！
+2018-12-04 23:19:50,126 - main - INFO - 开始导入数据到表src_test.tb_mail_cost！
+2018-12-04 23:20:11,601 - main - INFO - 插入了133 行
+2018-12-04 23:20:11,601 - main - INFO - 插入了133 行
+2018-12-04 23:20:11,603 - main - INFO - tb_mail_cost表更新方式是'A'！
+2018-12-04 23:20:11,603 - main - INFO - tb_mail_cost表更新方式是'A'！
+2018-12-04 23:23:33,614 - main - INFO - 开始导入数据到表src_test.tb_mail_cost！
+2018-12-04 23:23:33,614 - main - INFO - 开始导入数据到表src_test.tb_mail_cost！
+2018-12-04 23:23:54,290 - main - INFO - 插入了133 行
+2018-12-04 23:23:54,290 - main - INFO - 插入了133 行
+2018-12-04 23:23:54,292 - main - INFO - tb_mail_cost表更新方式是'A'！
+2018-12-04 23:23:54,292 - main - INFO - tb_mail_cost表更新方式是'A'！
+2018-12-04 23:28:33,813 - main - INFO - 开始导入数据到表src_test.tb_mail_cost！
+2018-12-04 23:28:33,813 - main - INFO - 开始导入数据到表src_test.tb_mail_cost！
+2018-12-04 23:28:46,093 - main - INFO - 插入了133 行
+2018-12-04 23:28:46,093 - main - INFO - 插入了133 行
+2018-12-04 23:28:46,094 - main - INFO - tb_mail_cost表更新方式是'R'！
+2018-12-04 23:28:46,094 - main - INFO - tb_mail_cost表更新方式是'R'！
+2018-12-04 23:31:21,653 - main - INFO - 开始导入数据到表src_test.tb_mail_cost！
+2018-12-04 23:31:21,653 - main - INFO - 开始导入数据到表src_test.tb_mail_cost！
+2018-12-04 23:31:33,301 - main - INFO - 插入了133 行
+2018-12-04 23:31:33,301 - main - INFO - 插入了133 行
+2018-12-04 23:31:33,302 - main - INFO - tb_mail_cost表更新方式是'R'！
+2018-12-04 23:31:33,302 - main - INFO - tb_mail_cost表更新方式是'R'！
+2018-12-04 23:33:33,847 - main - INFO - 开始导入数据到表src_test.tb_mail！
+2018-12-04 23:33:33,847 - main - INFO - 开始导入数据到表src_test.tb_mail！
+2018-12-04 23:33:45,320 - main - INFO - 插入了123 行
+2018-12-04 23:33:45,320 - main - INFO - 插入了123 行
+2018-12-04 23:33:45,321 - main - INFO - tb_mail表更新方式是'U'！
+2018-12-04 23:33:45,321 - main - INFO - tb_mail表更新方式是'U'！
+2018-12-04 23:34:17,600 - main - INFO - 开始导入数据到表src_test.tb_mail！
+2018-12-04 23:34:17,600 - main - INFO - 开始导入数据到表src_test.tb_mail！
+2018-12-04 23:34:30,307 - main - INFO - 插入了123 行
+2018-12-04 23:34:30,307 - main - INFO - 插入了123 行
+2018-12-04 23:34:30,308 - main - INFO - tb_mail表更新方式是'R'！
+2018-12-04 23:34:30,308 - main - INFO - tb_mail表更新方式是'R'！
+2018-12-04 23:39:14,948 - main - INFO - 开始导入数据到表src_test.tb_mail！
+2018-12-04 23:39:14,948 - main - INFO - 开始导入数据到表src_test.tb_mail！
+2018-12-04 23:39:14,948 - main - ERROR - File is not found！
+2018-12-04 23:39:14,948 - main - ERROR - File is not found！
+2018-12-04 23:39:14,949 - main - INFO - tb_mail表更新方式是'R'！
+2018-12-04 23:39:14,949 - main - INFO - tb_mail表更新方式是'R'！
+2018-12-04 23:56:34,014 - main - ERROR - File is not found！
+2018-12-04 23:56:34,282 - main - INFO - tb_mail表更新方式是'R'！
+2018-12-04 23:57:00,214 - main - ERROR - File is not found！
+2018-12-04 23:57:00,471 - main - INFO - tb_mail表更新方式是'U'！

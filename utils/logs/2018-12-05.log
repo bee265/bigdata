@@ -1,0 +1,144 @@
+2018-12-05 11:06:12,116 - main - INFO - 开始导入数据到表src_test.tb_mail！
+2018-12-05 11:06:55,060 - main - INFO - 插入了123 行
+2018-12-05 11:06:55,352 - main - INFO - tb_mail表更新方式是'U'！
+2018-12-05 11:13:34,486 - main - ERROR - File is not found！
+2018-12-05 11:13:34,744 - main - INFO - tb_mail表更新方式是'U'！
+2018-12-05 11:14:19,512 - main - ERROR - File is not found！
+2018-12-05 11:14:19,777 - main - INFO - tb_mail表更新方式是'U'！
+2018-12-05 11:14:46,419 - main - INFO - 开始导入数据
+2018-12-05 11:14:46,419 - main - INFO - 开始导入数据
+2018-12-05 11:14:46,448 - main - INFO - 开始导入数据到表src_test.tb_mail_cost！
+2018-12-05 11:14:46,448 - main - INFO - 开始导入数据到表src_test.tb_mail_cost！
+2018-12-05 11:15:06,048 - main - INFO - 插入了133 行
+2018-12-05 11:15:06,048 - main - INFO - 插入了133 行
+2018-12-05 11:15:06,049 - main - INFO - tb_mail_cost表更新方式是'A'！
+2018-12-05 11:15:06,049 - main - INFO - tb_mail_cost表更新方式是'A'！
+2018-12-05 11:15:12,225 - main - INFO - tb_mail_cost 数据导入成功，一共处理了133条记录
+2018-12-05 11:15:12,225 - main - INFO - tb_mail_cost 数据导入成功，一共处理了133条记录
+2018-12-05 11:20:07,464 - main - INFO - 开始导入数据
+2018-12-05 11:20:07,464 - main - INFO - 开始导入数据
+2018-12-05 11:20:07,464 - main - ERROR - File is not found！
+2018-12-05 11:20:07,464 - main - ERROR - File is not found！
+2018-12-05 11:20:07,464 - main - INFO - tb_mail_cost表更新方式是'A'！
+2018-12-05 11:20:07,464 - main - INFO - tb_mail_cost表更新方式是'A'！
+2018-12-05 11:20:11,253 - main - INFO - tb_mail_cost 数据导入成功，一共处理了133条记录
+2018-12-05 11:20:11,253 - main - INFO - tb_mail_cost 数据导入成功，一共处理了133条记录
+2018-12-05 11:20:25,868 - main - ERROR - File is not found！
+2018-12-05 11:20:26,136 - main - INFO - tb_mail表更新方式是'R'！
+2018-12-05 11:22:10,542 - main - ERROR - File is not found！
+2018-12-05 11:22:10,835 - main - INFO - tb_mail表更新方式是'R'！
+2018-12-05 11:22:10,835 - main - INFO - 清理tb_mail表的数据！
+2018-12-05 11:22:11,329 - main - INFO - 导入数据到tb_mail表！
+2018-12-05 11:23:19,376 - main - ERROR - File is not found！
+2018-12-05 11:23:19,643 - main - INFO - tb_mail表更新方式是'R'！
+2018-12-05 11:23:19,643 - main - INFO - 清理tb_mail表的数据！
+2018-12-05 11:23:19,809 - main - INFO - 导入数据到tb_mail表！
+2018-12-05 11:23:24,970 - main - INFO - tb_mail 数据导入成功，一共处理了123条记录
+2018-12-05 11:33:24,137 - main - ERROR - File is not found！
+2018-12-05 11:37:09,808 - main - INFO - 开始导入数据到表src_test.tb_mail_cost！
+2018-12-05 11:37:20,728 - main - INFO - 插入了23 行
+2018-12-05 11:37:21,008 - main - INFO - tb_mail_cost表更新方式是'U'！
+2018-12-05 11:37:57,555 - main - INFO - 开始导入数据到表src_test.tb_mail！
+2018-12-05 11:38:11,460 - main - INFO - 插入了123 行
+2018-12-05 11:38:11,721 - main - INFO - tb_mail表更新方式是'R'！
+2018-12-05 11:38:11,721 - main - INFO - 清理tb_mail表的数据！
+2018-12-05 11:38:12,088 - main - INFO - 导入数据到tb_mail表！
+2018-12-05 11:38:16,961 - main - INFO - tb_mail 数据导入成功，一共处理了123条记录
+2018-12-05 11:39:01,029 - main - INFO - 开始导入数据到表src_test.tb_mail！
+2018-12-05 11:39:11,826 - main - INFO - 插入了123 行
+2018-12-05 11:39:12,126 - main - INFO - tb_mail表更新方式是'U'！
+2018-12-05 11:40:12,715 - main - INFO - 开始导入数据到表src_test.tb_mail！
+2018-12-05 11:40:24,012 - main - INFO - 插入了123 行
+2018-12-05 11:40:24,271 - main - INFO - tb_mail表更新方式是'U'！
+2018-12-05 11:40:29,760 - main - INFO - tb_mail表更新完成'！
+2018-12-05 14:39:45,423 - main - ERROR - File is not found！
+2018-12-05 14:43:05,210 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 14:43:05,210 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 14:43:05,210 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 14:43:05,210 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 14:43:05,210 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 14:43:05,210 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 14:43:05,210 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 14:43:05,210 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 14:43:05,210 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 14:43:05,210 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 14:43:05,210 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 14:43:05,210 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 14:46:33,303 - main - ERROR - File is not found！
+2018-12-05 14:46:33,303 - main - ERROR - File is not found！
+2018-12-05 14:48:00,761 - main - INFO - 启动导入程序
+2018-12-05 14:48:00,761 - main - INFO - 启动导入程序
+2018-12-05 14:48:00,762 - main - ERROR - File is not found！
+2018-12-05 14:48:00,762 - main - ERROR - File is not found！
+2018-12-05 14:48:25,594 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 14:48:25,594 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 14:48:25,594 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 14:48:25,594 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 14:48:25,594 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 14:48:25,594 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 14:48:25,594 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 14:48:25,594 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 14:48:25,594 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 14:48:25,594 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 14:48:25,594 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 14:48:25,595 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 14:50:53,572 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 14:50:53,572 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 14:50:53,572 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 14:50:53,572 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 14:50:53,573 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 14:50:53,573 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 14:50:53,573 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 14:50:53,573 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 14:50:53,573 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 14:50:53,573 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 14:50:53,573 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 14:50:53,573 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 14:50:53,573 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 14:50:53,573 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 14:50:53,573 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 14:50:53,573 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 14:50:53,573 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 14:50:53,573 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 14:50:53,573 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 14:50:53,573 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 14:50:53,573 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 14:50:53,573 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 14:50:53,573 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 14:50:53,573 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 14:51:08,164 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 14:51:08,164 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 14:51:08,164 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2018-12-05 14:51:08,165 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 14:51:08,165 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 14:51:08,165 - logger - ERROR - 这是一个 error 级别的问题！
+2018-12-05 14:51:08,165 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 14:51:08,165 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 14:51:08,165 - logger - WARNING - 这是一个 warning 级别的问题！
+2018-12-05 14:51:08,165 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 14:51:08,165 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 14:51:08,165 - logger - INFO - 这是一个 info 级别的问题！
+2018-12-05 14:51:08,165 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 14:51:08,165 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 14:51:08,165 - logger - DEBUG - 这是一个 debug 级别的问题！
+2018-12-05 14:51:08,165 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 14:51:08,165 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 14:51:08,165 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2018-12-05 14:51:08,165 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 14:51:08,165 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 14:51:08,165 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2018-12-05 14:51:08,166 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 14:51:08,166 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 14:51:08,166 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2018-12-05 14:51:08,166 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 14:51:08,166 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 14:51:08,166 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2018-12-05 14:51:08,166 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 14:51:08,166 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 14:51:08,166 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2018-12-05 14:51:08,166 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 14:51:08,166 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 14:51:08,166 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2018-12-05 14:51:08,166 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 14:51:08,166 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2018-12-05 14:51:08,166 - logger - Level 11 - 这是一个 Level 11 级别的问题！

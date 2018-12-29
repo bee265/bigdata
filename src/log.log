@@ -1,0 +1,14 @@
+2018-12-05 17:02:10,504 - main.py:[line:52] - m - 启动导入程序
+2018-12-05 17:02:10,505 - src_loaddata.py:[line:67] - srddata - File is not found！
+2018-12-05 17:02:19,715 - main.py:[line:52] - main - 启动导入程序
+2018-12-05 17:02:19,715 - src_loaddata.py:[line:67] - srddata - File is not found！
+2018-12-05 17:02:53,172 - main.py:[line:52] - main - 启动导入程序
+2018-12-05 17:02:53,175 - src_loaddata.py:[line:54] - srddata - 开始导入数据到表src_test.tb_mail！
+2018-12-05 17:03:06,518 - src_loaddata.py:[line:61] - srddata - 插入了123 行
+2018-12-05 17:03:06,800 - src_loaddata.py:[line:135] - srddata - tb_mail表更新方式是'U'！
+2018-12-05 17:03:17,490 - src_loaddata.py:[line:138] - srddata - tb_mail表更新完成'！
+2018-12-05 17:03:40,623 - main.py:[line:52] - main - 启动导入程序
+2018-12-05 17:03:40,637 - src_loaddata.py:[line:54] - srddata - 开始导入数据到表src_test.tb_mail_cost！
+2018-12-05 17:03:52,673 - src_loaddata.py:[line:61] - srddata - 插入了23 行
+2018-12-05 17:03:52,674 - src_loaddata.py:[line:86] - srddata - tb_mail_cost表更新方式是'A'！
+2018-12-05 17:03:58,206 - src_loaddata.py:[line:93] - srddata - tb_mail_cost 数据导入成功，一共处理了23条记录
