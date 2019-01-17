@@ -49,7 +49,7 @@ class HiveClient(object):
 
 if __name__ == '__main__':
     v_sql_ods = 'desc  %s.%s' % ('src_test', 'tb_mail_actsettle')
-    hcon = HiveClient('hd1', 10000, 'hive')
+    hcon = HiveClient('hd2', 10000, 'hive')
     # hcon = HiveClient()
     res_src = hcon.query(v_sql_ods)
     dd = 1
